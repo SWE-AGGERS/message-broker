@@ -2,7 +2,8 @@ import redis
 
 #==============================================================================
 #
-#	MESSAGE BROKER CLASS
+#	MESSAGE BROKER CLASS 
+# 	(http://peter-hoffmann.com/2012/python-simple-queue-redis-queue.html)
 #
 #==============================================================================
 
